@@ -1,0 +1,28 @@
+// who-s-the-boss
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#264357",  // Couleur de fond de la barre latérale
+        "activityBar.foreground": "#7cb2b6",  // Couleur du texte et des icônes
+        "activityBar.inactiveForeground": "#c5c5c580",  // Couleur du texte et des icônes inactives
+        "activityBarBadge.background": "#ccce53",  // Couleur de fond de l'insigne de la barre latérale
+        "activityBarBadge.foreground": "#7c7e0c",  // Couleur du texte de l'insigne de la barre latérale
+
+
+        "statusBar.background": "#a1a1a1",  // Couleur de fond de la barre d'état
+        "statusBar.foreground": "#414141",  // Couleur du texte de la barre d'état
+        "statusBar.noFolderBackground": "#333333",  // Couleur de fond de la barre d'état sans dossier ouvert
+        "statusBar.debuggingBackground": "#d3b692",  // Couleur de fond de la barre d'état en mode débogage
+        "statusBar.debuggingForeground": "#FFFFFF",  // Couleur du texte de la barre d'état en mode débogage
+
+        "titleBar.activeBackground": "#333333",  // Couleur de fond de la barre de titre lorsqu'elle est active
+        "titleBar.activeForeground": "#FFFFFF",  // Couleur du texte de la barre de titre lorsqu'elle est active
+        "titleBar.inactiveBackground": "#1E1E1E",  // Couleur de fond de la barre de titre lorsqu'elle est inactive
+        "titleBar.inactiveForeground": "#CCCCCC",  // Couleur du texte de la barre de titre lorsqu'elle est inactive
+
+        "statusBarItem.remoteBackground": "#8d7747",
+        "statusBarItem.remoteForeground": "#e0d6b4",
+        // "statusBarItem.remoteHoverBackground": "#ff0000",
+        // "statusBarItem.remoteHoverForeground": "#ff0000"
+
+    }
+  }
