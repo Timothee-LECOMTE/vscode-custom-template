@@ -9,15 +9,20 @@
 
         "statusBar.background": "#e29299",  // Couleur de fond de la barre d'état
         "statusBar.foreground": "#961f33",  // Couleur du texte de la barre d'état
-        "statusBar.noFolderBackground": "#333333",  // Couleur de fond de la barre d'état sans dossier ouvert
+        "statusBar.noFolderBackground": "#e29299",  // Couleur de fond de la barre d'état sans dossier ouvert
         "statusBar.debuggingBackground": "#e29299",  // Couleur de fond de la barre d'état en mode débogage
         "statusBar.debuggingForeground": "#961f33",  // Couleur du texte de la barre d'état en mode débogage
 
-        "titleBar.activeBackground": "#333333",  // Couleur de fond de la barre de titre lorsqu'elle est active
-        "titleBar.activeForeground": "#FFFFFF",  // Couleur du texte de la barre de titre lorsqu'elle est active
-        "titleBar.inactiveBackground": "#1E1E1E",  // Couleur de fond de la barre de titre lorsqu'elle est inactive
-        "titleBar.inactiveForeground": "#CCCCCC",  // Couleur du texte de la barre de titre lorsqu'elle est inactive
+        "titleBar.activeBackground": "#efdad9",  // Couleur de fond de la barre de titre lorsqu'elle est active
+        "titleBar.activeForeground": "#961f33",  // Couleur du texte de la barre de titre lorsqu'elle est active
+        "titleBar.inactiveBackground": "#f1e7e4",  // Couleur de fond de la barre de titre lorsqu'elle est inactive
+        "titleBar.inactiveForeground": "#343434",  // Couleur du texte de la barre de titre lorsqu'elle est inactive
 
+        "editorCursor.foreground": "#dd6771",
+        "editor.lineHighlightBackground": "#dd677120",
+        "focusBorder": "#dd6771",
+        "sideBar.background": "#f3f0ed",
+        "sideBar.foreground": "#961f33",
         "statusBarItem.remoteBackground": "#383366",
         "statusBarItem.remoteForeground": "#eae8f5",
         // "statusBarItem.remoteHoverBackground": "#ff0000",
